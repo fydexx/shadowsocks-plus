@@ -15,6 +15,10 @@ Todo:
 ### 使用
 编译：
 
+git clone https://github.com/shadowsocks-plus/shadowsocks-plus
+
+cd shadowsocks-plus
+
 go get ./...
 
 go build server.go
